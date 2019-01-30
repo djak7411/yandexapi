@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\83a055130183aeec62b6da643bf0552b\AndroidManifest.xml:14:4-17:12
+MERGED from [com.facebook.stetho:stetho-okhttp:1.0.0] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\stetho-okhttp-1.0.0.aar\165d4dbb9068fadf7a8b47fd656311f4\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho:1.0.0] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\stetho-1.0.0.aar\efb0b8aa832e807036c0944936207ad9\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:11:5-33:19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\83a055130183aeec62b6da643bf0552b\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\83a055130183aeec62b6da643bf0552b\AndroidManifest.xml:16:5-19
+MERGED from [com.facebook.stetho:stetho-okhttp:1.0.0] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\stetho-okhttp-1.0.0.aar\165d4dbb9068fadf7a8b47fd656311f4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp:1.0.0] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\stetho-okhttp-1.0.0.aar\165d4dbb9068fadf7a8b47fd656311f4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.0.0] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\stetho-1.0.0.aar\efb0b8aa832e807036c0944936207ad9\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.0.0] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\stetho-1.0.0.aar\efb0b8aa832e807036c0944936207ad9\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:13:9-41
+	android:name
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:12:9-64
+activity#com.yandex.disk.rest.djak741.YaApiActivity
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:15:9-31:20
+	android:label
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:17:13-60
+	android:name
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:16:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:23:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:yandexdisk
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:25:13-30:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:27:17-78
+	android:name
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:27:27-75
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:28:27-73
+data
+ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:29:17-53
+	android:scheme
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml:29:23-50
+uses-sdk
+INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\83a055130183aeec62b6da643bf0552b\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\83a055130183aeec62b6da643bf0552b\AndroidManifest.xml:15:5-42
+MERGED from [com.facebook.stetho:stetho-okhttp:1.0.0] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\stetho-okhttp-1.0.0.aar\165d4dbb9068fadf7a8b47fd656311f4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp:1.0.0] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\stetho-okhttp-1.0.0.aar\165d4dbb9068fadf7a8b47fd656311f4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.0.0] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\stetho-1.0.0.aar\efb0b8aa832e807036c0944936207ad9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.0.0] C:\Users\djak741\.gradle\caches\transforms-1\files-1.1\stetho-1.0.0.aar\efb0b8aa832e807036c0944936207ad9\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\djak741\Desktop\SRANAYA\yandex-disk-restapi-java-master\app\src\main\AndroidManifest.xml
